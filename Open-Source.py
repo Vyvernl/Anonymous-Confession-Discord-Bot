@@ -7,7 +7,7 @@ intents.typing = True
 intents.presences = False
 
 Settings = {
-    'Token': 'MTA4MDUwMDE2NDA4ODgyNzk3NA.GifZta.fSDOQDnXN3gwBiebHraunhD6XLZosi18H1PO10',
+    'Token': 'Enter Token',
     'Activity Text': 'dingleberry',
     'Prefix': '.'
 }
